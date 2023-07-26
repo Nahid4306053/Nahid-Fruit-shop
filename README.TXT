@@ -1,11 +1,11 @@
- =================  These Website fetures ==========  
-  this full creted with tailwand css framework        
- 1.Navber responsive with stikey navber                       
- 2.Mobile side bar and mobile screen  Modul search option     
- 3.Responsive banner with slider                              
- 4.Product card with indivisual modul                         
- 5.Responsive for tab and laptop                              
- 6. Mobile Option side manu bar                               
- Created by Md Nahid Hasan  Programing hero WEB8-1862
-  (Don't Copy This File I puss maney comments in this website, so you can catch) 
- =================     These Website fetures       ========== 
+================= Features of this website ========== 
+ It is built entirely using the Tailwand CSS framework 
+ 1. Sticky navigation devices and responsive navigation devices 
+ 2. Search option for mobile sidebar and mobile screen module 
+ 3. Responsive banner with slider 
+ 4. Product card with customized module 
+ 5. Compatible with tabs and laptops 
+ 6. Side panel for mobile options 
+ Author: Md Nahid Hasan Programming Hero WEB8-1862 
+ (DO NOT COPY THIS FILE, THIS SITE HAS A LOT OF COMMENTS THAT CAN CAUSE MANY PROBLEMS.) 
+ ================= Features of this website  ==========
